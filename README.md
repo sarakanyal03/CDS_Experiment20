@@ -1,15 +1,15 @@
 # EXPERIMENT 20
 
-## AIM
+### AIM
 To study and implement Sorting Algorithm
 1. Selection sort
 2. Insertion sort
 3. Bubble sort
    
-## SOFTWARE USED
-VSCode
+### SOFTWARE USED
+VS Code
 
-## THEORY
+### THEORY
 In C++, sorting refers to the process of arranging elements in a specific order, typically in ascending or descending order. Sorting algorithms can be applied to arrays, vectors, or other containers to reorder the elements based on their values.<br>
 
 1. *Selection Sort:*
@@ -33,7 +33,7 @@ In C++, sorting refers to the process of arranging elements in a specific order,
   
  ![Bubble_sort](https://github.com/sarakanyal03/CDS_Experiment20/blob/main/Bubble_sort.png)
  
-## CODE & OUTPUT 
+### CODE & OUTPUT 
 1. CODE A:
 ```
 //SARA KANYAL
@@ -162,4 +162,5 @@ int main(){
 * OUTPUT C: <BR>
 ![20C](https://github.com/sarakanyal03/CDS_Experiment20/blob/main/20C.png)
 
-## CONCLUSION
+### CONCLUSION
+These algorithms are primarily useful for educational purposes, and while they work well on small datasets, more advanced sorting algorithms such as Quick Sort, Merge Sort, or Heap Sort are generally preferred for large datasets due to their better performance.
