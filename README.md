@@ -160,6 +160,6 @@ int main(){
 }
 ```
 * OUTPUT C: <BR>
-![20A](https://github.com/sarakanyal03/CDS_Experiment20/blob/main/20C.pn )
+![20C](https://github.com/sarakanyal03/CDS_Experiment20/blob/main/20C.png)
 
 ## CONCLUSION
